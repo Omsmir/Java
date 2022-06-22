@@ -9,4 +9,6 @@ public class SayHi {
         System.out.println("Hello");
 
     }
+
 }
+
